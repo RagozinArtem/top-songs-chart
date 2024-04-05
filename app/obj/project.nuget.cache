@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rCOv2ktrOa0zf5P3ZNzc41C57IJGcSxLl/du8UgRqqE/g/SJKjCi0JDJQ5R6RxRw4iyQBYJQafMkikNlMW//Sw==",
+  "dgSpecHash": "juUbWzPY5v5blN74ed3Aos5wkKdb1wdZ0HzjEdi8GyKbWwkbgpYr4PP6WlGQ/xf/LdourskcBRsf+chaxxO5yA==",
   "success": true,
   "projectFilePath": "/Users/laviprog/Projects/top-songs-chart/app/app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/laviprog/.nuget/packages/protobuf-net/3.2.30/protobuf-net.3.2.30.nupkg.sha512",
+    "/Users/laviprog/.nuget/packages/protobuf-net.core/3.2.30/protobuf-net.core.3.2.30.nupkg.sha512",
+    "/Users/laviprog/.nuget/packages/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
