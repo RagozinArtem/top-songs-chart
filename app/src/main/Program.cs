@@ -1,4 +1,4 @@
-﻿namespace app;
+﻿namespace app.main;
 
 class Program {
     public static void Main(String[] args) {

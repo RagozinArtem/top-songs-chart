@@ -8,4 +8,8 @@
   <ItemGroup>
     <PackageReference Include="protobuf-net" Version="3.2.30"/>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="src\resources\JSON\" />
+    <Folder Include="src\resources\XML\" />
+  </ItemGroup>
 </Project>
