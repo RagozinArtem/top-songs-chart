@@ -1,6 +1,6 @@
 namespace app.main.songs;
 
-public class Song
+public abstract class Song
 {
     
 }
